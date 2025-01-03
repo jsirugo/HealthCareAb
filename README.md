@@ -1,2 +1,2 @@
 # HealthCareAb
-HealthCareAB projekt av Axel Sköld, Johannes Sirugo, Lillebjörn Söderberg
+HealthCareAB projekt av Axel Sköld, Johannes Sirugo, Lillebjörn Söderberg, Joakim Haglund
